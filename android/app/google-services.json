@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022044321646",
+    "firebase_url": "https://y-ahora-1882a.firebaseio.com",
+    "project_id": "y-ahora-1882a",
+    "storage_bucket": "y-ahora-1882a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022044321646:android:96c2b6fa3a9d743239737f",
+        "android_client_info": {
+          "package_name": "com.example.y_ahora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022044321646-d42a4ev9sdr483jn73pb6stjkoi114lq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.y_ahora",
+            "certificate_hash": "5a82fd6a3d7b0504f61548cd8dba884d55c710a0"
+          }
+        },
+        {
+          "client_id": "1022044321646-n9rt2hfqfqbs8orc5n3in4q38lhpoge0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe3BMoSCDA8xzdhDd7qroHxbI1IxQsmgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022044321646-n9rt2hfqfqbs8orc5n3in4q38lhpoge0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
